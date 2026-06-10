@@ -1,16 +1,16 @@
 # Change these first
 owner: upptime # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-
+const url = `${site.url}?monitor=${Date.now()}`
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Twin Cities
+    url: https://twin-cities.umn.edu/?uptime_test
+
+  - name: Duluth
+    url: https://duluth.umn.edu/?uptime_test
+
+  - name: Morris
+    url: https://morris.umn.edu/?uptime_test
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
