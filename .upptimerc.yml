@@ -1,6 +1,7 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: amara060
+repo: upptime
+
 sites:
   - name: Twin Cities
     url: https://twin-cities.umn.edu/?uptime_test
@@ -12,19 +13,22 @@ sites:
     url: https://morris.umn.edu/?uptime_test
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # Use GitHub Pages
+  baseUrl: /upptime
+
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: University of Minnesota Website Monitoring
+  introTitle: "University of Minnesota Website Monitoring"
+  introMessage: >
+    Automated monitoring of University of Minnesota websites,
+    including Twin Cities, Duluth, and Morris campuses.
+
   navbar:
     - title: Status
       href: /
+
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/amara060/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
