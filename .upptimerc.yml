@@ -12,6 +12,9 @@ sites:
   - name: Morris
     url: https://morris.umn.edu/?uptime_test
 
+  - name: KJK
+    url: https://kjkk.umn.edu/?uptime_test
+
 status-website:
   # Use GitHub Pages
   baseUrl: /upptime
