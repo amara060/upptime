@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 501,
-    "timeDay": 501,
+    "timeDay": 0,
     "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 501,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 794,
-    "timeDay": 794,
+    "timeDay": 0,
     "timeWeek": 794,
     "timeMonth": 794,
     "timeYear": 794,
@@ -47,10 +47,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 935,
-    "timeDay": 935,
+    "timeDay": 0,
     "timeWeek": 935,
     "timeMonth": 935,
     "timeYear": 935,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "KJK",
+    "url": "https://kjkk.umn.edu/?uptime_test",
+    "icon": "https://icons.duckduckgo.com/ip3/kjkk.umn.edu.ico",
+    "slug": "kjk",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-06-11": 1288,
+      "2026-06-10": 231
+    }
   }
 ]
