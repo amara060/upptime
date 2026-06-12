@@ -203,19 +203,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.auxs.umn.edu.ico",
     "slug": "auxs",
     "status": "up",
-    "uptime": "50.72%",
-    "uptimeDay": "50.72%",
-    "uptimeWeek": "50.72%",
-    "uptimeMonth": "50.72%",
-    "uptimeYear": "50.72%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3870,
     "timeDay": 3870,
     "timeWeek": 3870,
     "timeMonth": 3870,
     "timeYear": 3870,
-    "dailyMinutesDown": {
-      "2026-06-12": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admissions TC",
