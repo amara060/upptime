@@ -20,6 +20,8 @@ on:
     - cron: "0 3 * * *"
   repository_dispatch:
     types: [updates]
+  env:
+    FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   workflow_dispatch:
 concurrency:
   group: ${{ github.repository }}-${{ github.head_ref || github.ref_name }}-upptime
