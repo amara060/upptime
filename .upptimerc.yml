@@ -3,17 +3,80 @@ owner: amara060
 repo: upptime
 
 sites:
+  - name: CSE
+    url: https://cse.umn.edu/?health-check
+
+  - name: Extension
+    url: https://extension.umn.edu/?health-check
+
+  - name: System
+    url: https://system.umn.edu/?health-check
+
   - name: Twin Cities
-    url: https://twin-cities.umn.edu/?uptime_test
+    url: https://twin-cities.umn.edu/?health-check
 
-  - name: Duluth
-    url: https://duluth.umn.edu/?uptime_test
+  - name: Carlson School
+    url: https://carlsonschool.umn.edu/?health-check
 
-  - name: Morris
-    url: https://morris.umn.edu/?uptime_test
+  - name: Emergency
+    url: https://emergency.umn.edu/?health-check
 
-  - name: KJK
-    url: https://kjkk.umn.edu/?uptime_test
+  - name: Search
+    url: https://search.umn.edu/?health-check
+
+  - name: M Physicians
+    url: https://mphysicians.umn.edu/?health-check
+
+  - name: President
+    url: https://president.umn.edu/?health-check
+
+  - name: Regents
+    url: https://regents.umn.edu/?health-check
+
+  - name: R
+    url: https://r.umn.edu/?health-check
+
+  - name: AUXS
+    url: https://auxs.umn.edu/?health-check
+
+  - name: Admissions TC
+    url: https://admissions.tc.umn.edu/?health-check
+
+  - name: Public Safety
+    url: https://publicsafety.umn.edu/?health-check
+
+  - name: ITUMN
+    url: https://itumn.umn.edu/?health-check
+
+  - name: HHH
+    url: https://hhh.umn.edu/?health-check
+
+  - name: Design
+    url: https://design.umn.edu/?health-check
+
+  - name: Undergrad
+    url: https://undergrad.umn.edu/?health-check
+
+  - name: HSRM
+    url: https://hsrm.umn.edu/?health-check
+
+  - name: PTS
+    url: https://pts.umn.edu/?health-check
+
+  - name: Provost
+    url: https://provost.umn.edu/?health-check
+
+  - name: UMarket
+    url: https://umarket.umn.edu/?health-check
+
+  - name: UCard
+    url: https://ucard.umn.edu/?health-check
+
+  - name: Facilities
+    url: https://facilities.umn.edu/?health-check
+
+  - name: CRK
+    url: https://crk.umn.edu/?health-check
 
 status-website:
   # Use GitHub Pages
