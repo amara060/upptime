@@ -37,7 +37,7 @@ sites:
     url: https://r.umn.edu/?health-check
 
   - name: AUXS
-    url: https://auxs.umn.edu/?health-check
+    url: https://www.auxs.umn.edu/?health-check
 
   - name: Admissions TC
     url: https://admissions.tc.umn.edu/?health-check
@@ -46,7 +46,7 @@ sites:
     url: https://publicsafety.umn.edu/?health-check
 
   - name: ITUMN
-    url: https://itumn.umn.edu/?health-check
+    url: https://https://it.umn.edu/?health-check
 
   - name: HHH
     url: https://hhh.umn.edu/?health-check
